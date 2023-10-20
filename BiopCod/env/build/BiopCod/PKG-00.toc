@@ -1,0 +1,75 @@
+('B:\\!!Mye\\Study\\3 '
+ 'class\\Networks\\BiopCode\\BiopCod\\env\\build\\BiopCod\\BiopCod.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'B:\\!!Mye\\Study\\3 '
+   'class\\Networks\\BiopCode\\BiopCod\\env\\build\\BiopCod\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'B:\\!!Mye\\Study\\3 '
+   'class\\Networks\\BiopCode\\BiopCod\\env\\build\\BiopCod\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'B:\\!!Mye\\Study\\3 '
+   'class\\Networks\\BiopCode\\BiopCod\\env\\build\\BiopCod\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'B:\\!!Mye\\Study\\3 '
+   'class\\Networks\\BiopCode\\BiopCod\\env\\build\\BiopCod\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'B:\\!!Mye\\Study\\3 '
+   'class\\Networks\\BiopCode\\BiopCod\\env\\build\\BiopCod\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'B:\\!!Mye\\Study\\3 '
+   'class\\Networks\\BiopCode\\BiopCod\\env\\build\\BiopCod\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'B:\\!!Mye\\Study\\3 '
+   'class\\Networks\\BiopCode\\BiopCod\\env\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'B:\\!!Mye\\Study\\3 '
+   'class\\Networks\\BiopCode\\BiopCod\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'B:\\!!Mye\\Study\\3 '
+   'class\\Networks\\BiopCode\\BiopCod\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'B:\\!!Mye\\Study\\3 '
+   'class\\Networks\\BiopCode\\BiopCod\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'B:\\!!Mye\\Study\\3 '
+   'class\\Networks\\BiopCode\\BiopCod\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_mplconfig',
+   'B:\\!!Mye\\Study\\3 '
+   'class\\Networks\\BiopCode\\BiopCod\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_mplconfig.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'B:\\!!Mye\\Study\\3 '
+   'class\\Networks\\BiopCode\\BiopCod\\env\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('BiopCod',
+   'B:\\!!Mye\\Study\\3 class\\Networks\\BiopCode\\BiopCod\\BiopCod.py',
+   'PYSOURCE')],
+ 'python39.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
