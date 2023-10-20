@@ -92,7 +92,7 @@
  [],
  False,
  False,
- 1697810483,
+ 1697810937,
  [('run.exe',
    'B:\\!!Mye\\Study\\3 '
    'class\\Networks\\BiopCode\\BiopCod\\env\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',

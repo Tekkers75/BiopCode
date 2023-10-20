@@ -38,7 +38,7 @@ def plot_dependency_graph(data):
 
     plt.xlabel('Time')
     plt.ylabel('Amplitude')
-    plt.title('RZ Encoding')
+    plt.title('BiopCode Encoding')
 
 
     plt.show()
